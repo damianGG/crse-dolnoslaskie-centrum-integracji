@@ -33,7 +33,7 @@ interface StrapiResponse {
 
 export async function getStrapiData() {
   try {
-    const response = await fetch(`${backendLink}/api/aps-dokumenties?sort=rank:asc&populate=*`, {
+    const response = await fetch(`${backendLink}/api/neet-dokumenties?sort=rank:asc&populate=*`, {
       method: 'GET',
       cache: "no-store",
       headers: {

@@ -10,7 +10,7 @@ const backendLink = process.env.STRAPI_PUBLIC_BACKEND_LINK;
 async function getStrapiData() {
     try {
         // Dodajemy parametr pagination[pageSize]=100, żeby pobrać wszystkie wpisy
-        const response = await fetch(`${backendLink}/api/aps-aktualnoscis?sort=id:desc&pagination[pageSize]=100`,
+        const response = await fetch(`${backendLink}/api/neet-aktualnoscis?sort=id:desc&pagination[pageSize]=100`,
             {
                 cache: 'no-store',
                 method: 'GET',

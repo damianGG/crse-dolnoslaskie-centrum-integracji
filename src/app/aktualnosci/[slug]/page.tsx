@@ -10,7 +10,7 @@ const backendLink = process.env.STRAPI_PUBLIC_BACKEND_LINK;
 
 async function getStrapiData(id: string) {
     // const id= params.slug.split('-')[0]
-    const data = await fetch(`${backendLink}/api/aps-aktualnoscis/${id}?populate=*`, {
+    const data = await fetch(`${backendLink}/api/neet-aktualnoscis/${id}?populate=*`, {
         cache: 'no-store',
         method: 'GET',
         headers: {
