@@ -367,12 +367,11 @@ export default function News() {
                                         <i className="uil uil-check" />
                                         W czasie realizacji szkolenia Uczestnikom/czkom przysługuje
                                         stypendium szkoleniowe w wysokości 120% zasiłku, o którym mowa w
-                                        art. 224 ust. 1 pkt 1 ustawy o rynku pracy i służbach zatrudnienia, jeżeli
+                                        art. 224 ustawy o rynku pracy i służbach zatrudnienia, jeżeli
                                         miesięczna liczba godzin szkolenia wynosi co najmniej 150 godzin
                                         zegarowych. W przypadku niższej miesięcznej liczby godzin szkolenia,
                                         wysokość stypendium ustala się proporcjonalnie, z tym, że stypendium to
-                                        nie może być niższe niż 20% zasiłku, o którym mowa w art. 224 ust. 1
-                                        pkt 1 ustawy o rynku pracy i służbach zatrudnienia.
+                                        nie może być niższe niż 20% zasiłku, o którym mowa w art. 224 ustawy o rynku pracy i służbach zatrudnienia.
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
@@ -448,7 +447,7 @@ export default function News() {
                                         <i className="uil uil-check" />
                                         W czasie realizacji szkolenia Uczestnikom/czkom przysługuje
                                         stypendium szkoleniowe w wysokości 120% zasiłku, o którym mowa w
-                                        art. 224 ust. 1 pkt 1 ustawy o rynku pracy i służbach zatrudnienia, jeżeli
+                                        art. 224 ustawy o rynku pracy i służbach zatrudnienia, jeżeli
 
                                         miesięczna liczba godzin szkolenia wynosi co najmniej 150 godzin
                                         zegarowych. W przypadku niższej miesięcznej liczby godzin szkolenia,
@@ -528,8 +527,8 @@ export default function News() {
                                         <i className="uil uil-check" />
                                         Uczestnikom/czkom projektu w ramach stażu zostaną zapewnione badania
                                         lekarskie, polisa ubezpieczeniowa NNW oraz stypendium stażowe, którego
-                                        wysokość miesięcznie wyniesie 160% zasiłku dla bezrobotnych, zgodnie z
-                                        obowiązującymi stawkami w tym zakresie (psz.praca.gov.pl), jeżeli liczba
+                                        wysokość miesięcznie wyniesie 160% wartość zasiłku, o którym mowa w art. 224 ustawy o rynku pracy i służbach zatrudnienia, zgodnie z obowiązującymi stawkami
+                                        (psz.praca.gov.pl), jeżeli liczba
                                         godzin stażu w miesiącu kalendarzowym wyniesie nie mniej niż 160 godzin
                                         miesięcznie. W przypadku niższego miesięcznego wymiaru godzin,
                                         wysokość stypendium ustala się proporcjonalnie.
