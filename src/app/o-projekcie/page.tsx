@@ -452,8 +452,7 @@ export default function News() {
                                         miesięczna liczba godzin szkolenia wynosi co najmniej 150 godzin
                                         zegarowych. W przypadku niższej miesięcznej liczby godzin szkolenia,
                                         wysokość stypendium ustala się proporcjonalnie, z tym, że stypendium
-                                        to nie może być niższe niż 20% zasiłku, o którym mowa w art. 224 ust.
-                                        1 pkt 1 ustawy o rynku pracy i służbach zatrudnienia.
+                                        to nie może być niższe niż 20% zasiłku, o którym mowa w art. 224 ustawy o rynku pracy i służbach zatrudnienia.
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />

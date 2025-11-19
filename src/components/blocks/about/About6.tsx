@@ -1,5 +1,3 @@
-
-
 // CUSTOM DATA
 
 
@@ -69,7 +67,7 @@ export default function About6() {
             W ramach projektu oferujemy:
           </p>
           <div className="row gy-3 ">
-            <div className="col-xl-6">
+            <div className="col-lg-6">
               <ul className="icon-list bullet-bg bullet-soft-primary mb-0">
                 <li className="mt-3"><i className="uil uil-check"></i>identyfikację potrzeb osób młodych oraz diagnozowanie możliwości w
                   zakresie doskonalenia zawodowego poprzez opracowanie indywidualnych
@@ -86,15 +84,18 @@ export default function About6() {
                 <li className="mt-3"><i className="uil uil-check"></i>usługę aktywnej integracji o charakterze zawodowym - staże zawodowe
                   spełniające standardy wskazane w Europejskiej Ramie Jakości Praktyk i
                   Staży,</li>
-                <li className="mt-3"><i className="uil uil-check"></i>stypendium szkoleniowe śr. 344,38 zł w zależności od długości szkolenia z
+              </ul>
+            </div>
+            <div className="col-lg-6">
+              <ul className="icon-list bullet-bg bullet-soft-primary mb-0">
+                <li className="mt-3"><i className="uil uil-check"></i>stypendium szkoleniowe śr. 344,40 zł w zależności od długości szkolenia z
                   kompetencji cyfrowych,</li>
-                <li className="mt-3"><i className="uil uil-check"></i>stypendium szkoleniowe śr. 1 239,77 zł w zależności od długości szkolenia
+                <li className="mt-3"><i className="uil uil-check"></i>stypendium szkoleniowe śr. 1 239,78 zł w zależności od długości szkolenia
                   zawodowego,</li>
-                <li className="mt-3"><i className="uil uil-check"></i>stypendium stażowe 2 755,04 zł miesięcznie,</li>
+                <li className="mt-3"><i className="uil uil-check"></i>stypendium stażowe 2 755,19 zł miesięcznie,</li>
                 <li className="mt-3"><i className="uil uil-check"></i>zwrot kosztów dojazdu na szkolenia i staże dla części uczestników,</li>
                 <li className="mt-3"><i className="uil uil-check"></i>zwrot kosztów opieki nad dzieckiem/osobą zależną dla części uczestników
                   szkoleń.</li>
-
               </ul>
             </div>
 
