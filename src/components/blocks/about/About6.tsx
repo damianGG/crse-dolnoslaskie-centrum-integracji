@@ -81,18 +81,19 @@ export default function About6() {
                   jakości szkoleń służących zdobyciu, zmianie lub podniesieniu kompetencji
                   lub kwalifikacji niezbędnych do wykonywania danego zawodu lub zadań na
                   określonym stanowisku,</li>
-                <li className="mt-3"><i className="uil uil-check"></i>usługę aktywnej integracji o charakterze zawodowym - staże zawodowe
-                  spełniające standardy wskazane w Europejskiej Ramie Jakości Praktyk i
-                  Staży,</li>
+
               </ul>
             </div>
             <div className="col-lg-6">
               <ul className="icon-list bullet-bg bullet-soft-primary mb-0">
+                <li className="mt-3"><i className="uil uil-check"></i>usługę aktywnej integracji o charakterze zawodowym - staże zawodowe
+                  spełniające standardy wskazane w Europejskiej Ramie Jakości Praktyk i
+                  Staży,</li>
                 <li className="mt-3"><i className="uil uil-check"></i>stypendium szkoleniowe śr. 344,40 zł w zależności od długości szkolenia z
                   kompetencji cyfrowych,</li>
                 <li className="mt-3"><i className="uil uil-check"></i>stypendium szkoleniowe śr. 1 239,78 zł w zależności od długości szkolenia
                   zawodowego,</li>
-                <li className="mt-3"><i className="uil uil-check"></i>stypendium stażowe 2 755,19 zł miesięcznie,</li>
+                <li className="mt-3"><i className="uil uil-check"></i>stypendium stażowe 2 755,10 zł miesięcznie,</li>
                 <li className="mt-3"><i className="uil uil-check"></i>zwrot kosztów dojazdu na szkolenia i staże dla części uczestników,</li>
                 <li className="mt-3"><i className="uil uil-check"></i>zwrot kosztów opieki nad dzieckiem/osobą zależną dla części uczestników
                   szkoleń.</li>
