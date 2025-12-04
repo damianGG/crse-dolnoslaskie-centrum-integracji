@@ -23,7 +23,7 @@ export default function Footer2() {
                 <div className="widget">
                   <p className="widget-title fs-15 fw-bold"><i className="uil uil-map me-2 fs-25" ></i> Adres (Biuro projektu)</p>
                   <address>
-                    ul. Muchoborska 14 lok. 201A,<br /> II piętro, budynek biurowy A,<br className="d-none d-md-block" />54-424 Wrocław
+                    ul. Wyspiańskiego 2f, sala 1<br className="d-none d-md-block" />57-300 Kłodzko
                   </address>
                 </div>
               </div>

@@ -51,13 +51,13 @@ export default function Kontakt() {
                 <div className="row">
                     <div className="col text-center">
                         <h1>Biuro Projektu</h1>
-                        <p><strong>Adres:</strong> ul. Muchoborska 14 lok. 201A, II piętro, budynek biurowy A, 54-424 Wrocław</p>
+                        <p><strong>Adres:</strong> ul. Wyspiańskiego 2f, sala 1, 57-300 Kłodzko</p>
                         <p>Biuro projektu czynne jest od poniedziałku do piątku w godzinach 8:00 - 16:00 (istnieje możliwość umówienia się na inne godziny spotkania)</p>
                         <p><strong>Tel:</strong> +48 887 077 080</p>
                         <p><strong>E-mail:</strong> <a href="mailto:integracjaneet@crse.org.pl" className="link-primary" target="_blank">integracjaneet@crse.org.pl</a> </p>
                     </div>
                     <iframe
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1050.5386960086703!2d16.97022221943115!3d51.10929445200304!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x470fc1e8b460ed3f%3A0x2329a15fd13aacc0!2sMuchoborska%2014%2C%2054-424%20Wroc%C5%82aw!5e1!3m2!1spl!2spl!4v1748475462085!5m2!1spl!2spl"
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d598.1938412470518!2d16.66035317779697!3d50.43200560991435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x470e170e8aa5652d%3A0x32ac841f96e89e11!2sS.%20Wyspia%C5%84skiego%202F%2C%2057-300%20K%C5%82odzko!5e1!3m2!1spl!2spl!4v1764828625753!5m2!1spl!2spl"
 
                         width={600}
                         height={450}

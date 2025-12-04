@@ -34,10 +34,10 @@ export default async function BlogDetailsTemplate({ params }: { params: { slug: 
     const content = data.attributes.opis;
 
     const photoURL = data.attributes.zdjecie?.data?.attributes?.url;
-    const tekstPlikDoPobrania = data.attributes?.TekstPlikDoPobrania || '';
-    const downloadURL = data.attributes.PlikDoPobrania?.data?.attributes?.url;
+    const tekstPlikiDoPobrania = data.attributes?.TekstPliikDoPobrania || '';
+    const downloadURL = data.attributes.PlikiDoPobrania?.data?.attributes?.url;
 
-    console.log(tekstPlikDoPobrania)
+    console.log(tekstPlikiDoPobrania)
     return (
         <>
             <section className="wrapper bg-soft-primary">
@@ -74,7 +74,7 @@ export default async function BlogDetailsTemplate({ params }: { params: { slug: 
                                     {downloadURL && (
                                         <div className='d-flex align-self-center mt-10'>
                                             <DownloadElement
-                                                title={tekstPlikDoPobrania}
+                                                title={tekstPlikiDoPobrania}
                                                 link1={downloadURL}
                                             />
                                         </div>
